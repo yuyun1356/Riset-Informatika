@@ -2,6 +2,4 @@
 This repository is created to collect and store assignments for the Research in Computer Science course taught by Professor Basuki Rahmat. It's the right place to organize and collaborate on research assignments within this course.
 
 Created by :
-Sri Fatmawati Yunizar
-20081010125
-Riset Informatika D081
+Sri Fatmawati Yunizar (20081010125) - Riset Informatika D081
