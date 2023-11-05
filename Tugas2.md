@@ -10,7 +10,6 @@ Kelas : D081 <br/>
 
 1. Metodologi
 
-- [Analisis Perbandingan Bahasa Pemrograman PHP Laravel dengan PHP Native pada Pengembangan Website](https://core.ac.uk/download/pdf/478825997.pdf)
 - [Implementasi Sistem Informasi Manajemen Inventaris Berbasis Web Di Pusat Teknologi Informasi Dan Komunikasi – BPPT](https://jurnal.untirta.ac.id/index.php/jis/article/view/3727/2727)
 - [PERANCANGAN SISTEM INFORMASI MANAJEMEN PELAYANAN ANGGOTA JEMAAT, BAPTISAN, DAN PERNIKAHAN BERBASIS WEB (STUDI KASUS: GEKARI LEMBAH PUJIAN KOTA SORONG)](https://www.researchgate.net/profile/Frits-Rupilele/publication/324945748_Perancangan_Sistem_Informasi_Manajemen_Pelayanan_Anggota_Jemaat_Baptisan_dan_Pernikahan_Berbasis_Web_Studi_Kasus_Gekari_Lembah_Pujian_Kota_Sorong/links/5b6e3972299bf14c6d98d21a/Perancangan-Sistem-Informasi-Manajemen-Pelayanan-Anggota-Jemaat-Baptisan-dan-Pernikahan-Berbasis-Web-Studi-Kasus-Gekari-Lembah-Pujian-Kota-Sorong.pdf)
 
